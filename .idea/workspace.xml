@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="180485f1-de59-4b30-bca2-afabaea13f29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/ArchitectureTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/CleanArchitectureConstants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/CleanArchitectureExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/configuration/ConfigurationRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/core/CommandRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/core/CoreRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/core/EventRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/core/PortRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/core/UseCaseRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/gateway/DataProviderRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/gateway/EntrypointRules.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/archunit/gateway/GatewayRules.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27kjq37hyCURHEJ2ADBR5TRqABQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/thiago/git/testes1/arch-unit-example/src/test/kotlin",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArchitectureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consoleApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="archunit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="archunit" />
+      <option name="MAIN_CLASS_NAME" value="archunit.ArchitectureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArchitectureTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180485f1-de59-4b30-bca2-afabaea13f29" name="Changes" comment="" />
+      <created>1649871166801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649871166801</updated>
+      <workItem from="1649871168233" duration="2104000" />
+      <workItem from="1650474511201" duration="2230000" />
+      <workItem from="1650993135553" duration="2676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
